@@ -14,6 +14,6 @@ spec:
     - tanzu-banking-demo
   git:
     ignore: ".git/, target, catalog"
-    url: https://github.com/MoSehsah/bank-demo
+    url: https://github.com/GeoGTR/bank-demo
     ref:
       branch: main
